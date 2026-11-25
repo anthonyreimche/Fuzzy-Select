@@ -1,0 +1,14 @@
+{
+  "id": "fuzzy-select",
+  "name": "Fuzzy Select",
+  "version": "1.0.0",
+  "description": "Select a connected area of similar colour with a click, as a mask component.",
+  "author": "Anthony Reimche",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "categories": ["tone"],
+  "keywords": ["mask", "fuzzy select", "magic wand", "selection"],
+  "repository": "anthonyreimche/Fuzzy-Select",
+  "worksWith": ["anthonyreimche/masking"],
+  "minAppVersion": "3.2.8"
+}
